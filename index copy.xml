@@ -1,9 +1,11 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>所有文章 - 有且可为</title>
-        <link>https://zuwei522.gitee.io/posts/</link>
-        <description>所有文章 | 有且可为</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 22 Jan 2022 00:50:10 &#43;0800</lastBuildDate><atom:link href="https://zuwei522.gitee.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <title>有且可为</title>
+        <link>https://zuwei522.gitee.io/</link>
+        <description>zuwei的博客</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 22 Jan 2022 00:50:10 &#43;0800</lastBuildDate>
+            <atom:link href="https://zuwei522.gitee.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
     <title>游戏社交页</title>
     <link>https://zuwei522.gitee.io/games/</link>
     <pubDate>Sat, 22 Jan 2022 00:50:10 &#43;0800</pubDate>
