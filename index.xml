@@ -3,9 +3,19 @@
         <title>有且可为</title>
         <link>https://zuwei522.gitee.io/</link>
         <description>zuwei的博客</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 22 Jan 2022 00:50:10 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 22 Jan 2022 14:45:14 &#43;0800</lastBuildDate>
             <atom:link href="https://zuwei522.gitee.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>海ばたり (Umibatari)</title>
+    <link>https://zuwei522.gitee.io/umibatari/</link>
+    <pubDate>Sat, 22 Jan 2022 14:45:14 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://zuwei522.gitee.io/umibatari/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/file/img/Umibatari/1500x500.jpg" referrerpolicy="no-referrer">
+            </div><p>图片来源于 海ばたり 的<a href="https://twitter.com/Umibatari" target="_blank" rel="noopener noreffer">Twitter</a>和<a href="https://www.pixiv.net/users/18187890" target="_blank" rel="noopener noreffer">Pixiv</a>。
+更新时间不定。</p>]]></description>
+</item><item>
     <title>游戏社交页</title>
     <link>https://zuwei522.gitee.io/games/</link>
     <pubDate>Sat, 22 Jan 2022 00:50:10 &#43;0800</pubDate>
