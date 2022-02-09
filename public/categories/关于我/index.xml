@@ -1,0 +1,30 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>关于我 - 分类 - 有且可为</title>
+        <link>https://zuwei522.gitee.io/categories/%E5%85%B3%E4%BA%8E%E6%88%91/</link>
+        <description>关于我 - 分类 - 有且可为</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 10 Feb 2022 02:03:00 &#43;0800</lastBuildDate><atom:link href="https://zuwei522.gitee.io/categories/%E5%85%B3%E4%BA%8E%E6%88%91/" rel="self" type="application/rss+xml" /><item>
+    <title>捐赠我</title>
+    <link>https://zuwei522.gitee.io/give-me-money/</link>
+    <pubDate>Thu, 10 Feb 2022 02:03:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://zuwei522.gitee.io/give-me-money/</guid>
+    <description><![CDATA[创作不易，求打赏QAQ]]></description>
+</item><item>
+    <title>游戏社交页</title>
+    <link>https://zuwei522.gitee.io/games/</link>
+    <pubDate>Sat, 22 Jan 2022 00:50:10 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://zuwei522.gitee.io/games/</guid>
+    <description><![CDATA[更新时间：2022-01-22 原神 官服 52级 UID 104333382 B服 3级 UID 504433511 崩坏3 桌面服 47级 UID 262244613 B服 13级 UID 117817903 官服（安卓1服） 1级 UID 617496738 华为服 58级 UID 139055976 公主]]></description>
+</item><item>
+    <title>我的歌单</title>
+    <link>https://zuwei522.gitee.io/music/</link>
+    <pubDate>Sat, 22 Jan 2022 00:13:25 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://zuwei522.gitee.io/music/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://y.qq.com/mediastyle/yqq/img/logo.png" referrerpolicy="no-referrer">
+            </div>ACG 中文 日语]]></description>
+</item></channel>
+</rss>

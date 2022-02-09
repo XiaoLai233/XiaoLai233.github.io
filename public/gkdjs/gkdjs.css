@@ -1,0 +1,40 @@
+
+
+html.count {
+    color: #888;
+    display: table;
+    font-family: sans-serif;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    line-height: 1.2;
+}
+
+p#title {
+  font-size: 5em;
+}
+
+div#CountMsg {
+  margin: 0 auto;
+}
+
+div#count {
+    margin-top: 10vh;
+    text-align: center;
+    margin: 0 auto;
+}
+
+span#t_d {
+  font-size: 4em;
+  font-weight: bolder;
+}
+
+span.hms {
+  font-size: 3em;
+  font-weight: lighter;
+}
+
+span.gk {
+    color:red;
+    font-weight: bolder;
+}
