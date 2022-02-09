@@ -1,73 +1,73 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>有且可为</title>
-        <link>https://zuwei522.gitee.io/</link>
+        <link>https://xiaolai233.github.io/</link>
         <description>zuwei的博客</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 10 Feb 2022 02:03:00 &#43;0800</lastBuildDate>
-            <atom:link href="https://zuwei522.gitee.io/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://xiaolai233.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>捐赠我</title>
-    <link>https://zuwei522.gitee.io/give-me-money/</link>
+    <link>https://xiaolai233.github.io/donate/</link>
     <pubDate>Thu, 10 Feb 2022 02:03:00 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://zuwei522.gitee.io/give-me-money/</guid>
+    <guid>https://xiaolai233.github.io/donate/</guid>
     <description><![CDATA[创作不易，求打赏QAQ]]></description>
 </item><item>
     <title>Python3笔记</title>
-    <link>https://zuwei522.gitee.io/python3-note/</link>
+    <link>https://xiaolai233.github.io/python3-note/</link>
     <pubDate>Tue, 08 Feb 2022 02:55:20 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://zuwei522.gitee.io/python3-note/</guid>
+    <guid>https://xiaolai233.github.io/python3-note/</guid>
     <description><![CDATA[<h2 id="介绍">介绍</h2>
 <blockquote>
 <p>Python3 是一种解释性的、可交互的、面向对象的编程语言</p>
 </blockquote>]]></description>
 </item><item>
     <title>海ばたり (Umibatari)</title>
-    <link>https://zuwei522.gitee.io/umibatari/</link>
+    <link>https://xiaolai233.github.io/umibatari/</link>
     <pubDate>Sat, 22 Jan 2022 14:45:14 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://zuwei522.gitee.io/umibatari/</guid>
+    <guid>https://xiaolai233.github.io/umibatari/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/file/img/Umibatari/1500x500.jpg" referrerpolicy="no-referrer">
+                <img src="https://zuwei522.gitee.io/file/img/Umibatari/1500x500.jpg" referrerpolicy="no-referrer">
             </div><p>图片来源于 海ばたり 的<a href="https://twitter.com/Umibatari" target="_blank" rel="noopener noreffer">Twitter</a>和<a href="https://www.pixiv.net/users/18187890" target="_blank" rel="noopener noreffer">Pixiv</a>。
 更新时间不定。</p>]]></description>
 </item><item>
     <title>游戏社交页</title>
-    <link>https://zuwei522.gitee.io/games/</link>
+    <link>https://xiaolai233.github.io/games/</link>
     <pubDate>Sat, 22 Jan 2022 00:50:10 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://zuwei522.gitee.io/games/</guid>
+    <guid>https://xiaolai233.github.io/games/</guid>
     <description><![CDATA[更新时间：2022-01-22 原神 官服 52级 UID 104333382 B服 3级 UID 504433511 崩坏3 桌面服 47级 UID 262244613 B服 13级 UID 117817903 官服（安卓1服） 1级 UID 617496738 华为服 58级 UID 139055976 公主]]></description>
 </item><item>
     <title>我的歌单</title>
-    <link>https://zuwei522.gitee.io/music/</link>
+    <link>https://xiaolai233.github.io/music/</link>
     <pubDate>Sat, 22 Jan 2022 00:13:25 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://zuwei522.gitee.io/music/</guid>
+    <guid>https://xiaolai233.github.io/music/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="https://y.qq.com/mediastyle/yqq/img/logo.png" referrerpolicy="no-referrer">
             </div>ACG 中文 日语]]></description>
 </item><item>
     <title>2022 高考倒计时</title>
-    <link>https://zuwei522.gitee.io/gkdjs/</link>
+    <link>https://xiaolai233.github.io/gkdjs/</link>
     <pubDate>Fri, 21 Jan 2022 21:51:14 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://zuwei522.gitee.io/gkdjs/</guid>
+    <guid>https://xiaolai233.github.io/gkdjs/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>英语作文技巧</title>
-    <link>https://zuwei522.gitee.io/english-writing/</link>
+    <link>https://xiaolai233.github.io/english-writing/</link>
     <pubDate>Sat, 15 Jan 2022 21:42:20 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://zuwei522.gitee.io/english-writing/</guid>
+    <guid>https://xiaolai233.github.io/english-writing/</guid>
     <description><![CDATA[十个黄金句型 不用说… It goes without saying that …= (It is) needless to say (that) ….= It is obvious that …. 例：It goes without saying that it pays off to keep early hours.不用说早睡早起是值得的。 在各种……之]]></description>
 </item><item>
     <title>高中化学知识点总结</title>
-    <link>https://zuwei522.gitee.io/chemistry-knowledge/</link>
+    <link>https://xiaolai233.github.io/chemistry-knowledge/</link>
     <pubDate>Sat, 08 Jan 2022 19:09:10 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://zuwei522.gitee.io/chemistry-knowledge/</guid>
+    <guid>https://xiaolai233.github.io/chemistry-knowledge/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>
