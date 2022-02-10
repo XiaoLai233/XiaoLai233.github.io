@@ -403,7 +403,7 @@ theme = "LoveIt"
         enable = false
       #  Utterances 评论系统设置
       [params.page.comment.utterances]
-        enable = false
+        enable = true
         # owner/repo
         repo = "XiaoLai233/hugoblogtalks"
         issueTerm = "pathname"
