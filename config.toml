@@ -405,7 +405,7 @@ theme = "LoveIt"
       [params.page.comment.utterances]
         enable = false
         # owner/repo
-        repo = ""
+        repo = "XiaoLai233/hugoblogtalks"
         issueTerm = "pathname"
         label = ""
         lightTheme = "github-light"
