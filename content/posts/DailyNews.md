@@ -6,9 +6,9 @@ draft: false
 tags: []
 categories: [功能]
 featuredImage: ""
-featuredImagePreview: "https://api.03c3.cn/zb/"
+featuredImagePreview: "http://119.91.211.8/60s"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
 ---
-{{< image src="https://api.03c3.cn/zb/" width="100%">}}
+{{< image src="http://119.91.211.8/60s" width="100%">}}

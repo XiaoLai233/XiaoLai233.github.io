@@ -1,4 +1,4 @@
 # 每天60秒读懂世界
 
-{{< image src="https://api.03c3.cn/zb/" width="100%">}}
+{{< image src="http://119.91.211.8/60s" width="100%">}}
 
