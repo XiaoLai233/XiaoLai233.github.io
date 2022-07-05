@@ -44,7 +44,7 @@ theme = "LoveIt"
   #  LoveIt 主题版本
   version = "0.2.X"
   # 网站描述
-  description = "zuwei的博客"
+  description = ""
   # 网站关键词
   keywords = ["博客", "Blog", "zuwei"]
   # 网站默认主题样式 ("light", "dark", "auto")

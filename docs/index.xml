@@ -2,24 +2,10 @@
     <channel>
         <title>有且可为</title>
         <link>https://xiaolai233.github.io/</link>
-        <description>zuwei的博客</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 23 Apr 2022 12:11:57 &#43;0800</lastBuildDate>
+        <description>有且可为</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 08 Feb 2022 02:55:20 &#43;0800</lastBuildDate>
             <atom:link href="https://xiaolai233.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>每天60秒读懂世界</title>
-    <link>https://xiaolai233.github.io/dailynews/</link>
-    <pubDate>Sat, 23 Apr 2022 12:11:57 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://xiaolai233.github.io/dailynews/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>捐赠我</title>
-    <link>https://xiaolai233.github.io/donate/</link>
-    <pubDate>Thu, 10 Feb 2022 02:03:00 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://xiaolai233.github.io/donate/</guid>
-    <description><![CDATA[创作不易，求打赏QAQ]]></description>
-</item><item>
     <title>Python3笔记</title>
     <link>https://xiaolai233.github.io/python3-note/</link>
     <pubDate>Tue, 08 Feb 2022 02:55:20 &#43;0800</pubDate>
@@ -30,22 +16,12 @@
 <p>Python3 是一种解释性的、可交互的、面向对象的编程语言</p>
 </blockquote>]]></description>
 </item><item>
-    <title>海ばたり (Umibatari)</title>
-    <link>https://xiaolai233.github.io/umibatari/</link>
-    <pubDate>Sat, 22 Jan 2022 14:45:14 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://xiaolai233.github.io/umibatari/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="https://zuwei522.gitee.io/file/img/Umibatari/1500x500.jpg" referrerpolicy="no-referrer">
-            </div><p>图片来源于 海ばたり 的<a href="https://twitter.com/Umibatari" target="_blank" rel="noopener noreffer">Twitter</a>和<a href="https://www.pixiv.net/users/18187890" target="_blank" rel="noopener noreffer">Pixiv</a>。
-更新时间不定。</p>]]></description>
-</item><item>
     <title>游戏社交页</title>
     <link>https://xiaolai233.github.io/games/</link>
     <pubDate>Sat, 22 Jan 2022 00:50:10 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://xiaolai233.github.io/games/</guid>
-    <description><![CDATA[更新时间：2022-01-22 原神 官服 52级 UID 104333382 B服 3级 UID 504433511 崩坏3 桌面服 47级 UID 262244613 B服 13级 UID 117817903 官服（安卓1服） 1级 UID 617496738 华为服 58级 UID 139055976 公主]]></description>
+    <description><![CDATA[游戏平台 Steam 好友码 996352296 Minecraft Java版ID XiaoLai233 基岩版ID XiaoLai233 原神 官服 54级 UID 104333382 B服 3级 UID 504433511 （基本不玩） 崩坏3 桌面服 47级 UID 262244613 B服 13级 UID 11781790]]></description>
 </item><item>
     <title>我的歌单</title>
     <link>https://xiaolai233.github.io/music/</link>
@@ -69,12 +45,5 @@
     <author>作者</author>
     <guid>https://xiaolai233.github.io/english-writing/</guid>
     <description><![CDATA[十个黄金句型 不用说… It goes without saying that …= (It is) needless to say (that) ….= It is obvious that …. 例：It goes without saying that it pays off to keep early hours.不用说早睡早起是值得的。 在各种……之]]></description>
-</item><item>
-    <title>高中化学知识点总结</title>
-    <link>https://xiaolai233.github.io/chemistry-knowledge/</link>
-    <pubDate>Sat, 08 Jan 2022 19:09:10 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://xiaolai233.github.io/chemistry-knowledge/</guid>
-    <description><![CDATA[]]></description>
 </item></channel>
 </rss>

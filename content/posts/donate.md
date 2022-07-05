@@ -2,7 +2,7 @@
 title: "捐赠我"
 date: 2022-02-10T02:03:00+08:00
 lastmod: 2022-02-10T02:03:00+08:00
-draft: false
+draft: true
 categories: [关于我]
 hiddenFromHomePage: true
 ---

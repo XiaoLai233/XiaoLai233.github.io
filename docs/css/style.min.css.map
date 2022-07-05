@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "E:/MyDocs/source/github/XiaoLai233.github.io",
+	"sourceRoot": "F:/文档/source/github/XiaoLai233.github.io",
 	"sources": [
 		"themes/LoveIt/assets/css/style.scss",
 		"themes/LoveIt/assets/css/_variables.scss",

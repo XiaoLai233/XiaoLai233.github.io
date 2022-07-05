@@ -1,7 +1,7 @@
 ---
 title: "海ばたり (Umibatari)"
 date: 2022-01-22T14:45:14+08:00
-draft: false
+draft: true
 categories: [画师]
 featuredImage: "https://zuwei522.gitee.io/file/img/Umibatari/1500x500.jpg"
 ---
